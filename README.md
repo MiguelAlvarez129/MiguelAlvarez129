@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+##### Hi, my name is Miguel!
+
+🔭 I am doing this as *parte* of **learntocloud's** guide on what you need to learn for cloud computing.
+
+I am a systems engineer with experience on web development but at the moment
+i'm looking to branch out (🌳) into cloud computing.
+
+
 <!--
 **MiguelAlvarez129/MiguelAlvarez129** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
